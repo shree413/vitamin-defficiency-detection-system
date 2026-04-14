@@ -1,0 +1,638 @@
+[
+  {
+    "symptoms": "bone pain",
+    "result": "Possible Vitamin D Deficiency, Sunlight Exposure \u2600\ufe0f ,Increase intake of Vitamin D-rich foods: \ud83d\udc1f Fatty fish (salmon, mackerel, sardines, tuna) \ud83e\udd5a Egg yolks\ud83e\udd5b Fortified milk, orange juice, cereals\ud83c\udf44 UV-exposed mushrooms\ud83e\uddc8 Butter, cheese (in small amounts)",
+    "timestamp": "2026-03-27 10:59:04"
+  },
+  {
+    "symptoms": "bone pain",
+    "result": "Possible Vitamin D Deficiency, Sunlight Exposure \u2600\ufe0f ,Increase intake of Vitamin D-rich foods: \ud83d\udc1f Fatty fish (salmon, mackerel, sardines, tuna) \ud83e\udd5a Egg yolks\ud83e\udd5b Fortified milk, orange juice, cereals\ud83c\udf44 UV-exposed mushrooms\ud83e\uddc8 Butter, cheese (in small amounts)",
+    "timestamp": "2026-03-27 10:59:05"
+  },
+  {
+    "symptoms": "bone pain",
+    "result": "Possible Vitamin D Deficiency, Sunlight Exposure \u2600\ufe0f ,Increase intake of Vitamin D-rich foods: \ud83d\udc1f Fatty fish (salmon, mackerel, sardines, tuna) \ud83e\udd5a Egg yolks\ud83e\udd5b Fortified milk, orange juice, cereals\ud83c\udf44 UV-exposed mushrooms\ud83e\uddc8 Butter, cheese (in small amounts)",
+    "timestamp": "2026-03-27 10:59:54"
+  },
+  {
+    "timestamp": "2026-03-27 11:58:27",
+    "symptoms": "I feel tired and have muscle weakness",
+    "analysis": {
+      "vitamin_name": "Vitamin D",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and tiredness",
+        "Muscle weakness",
+        "Bone pain",
+        "Mood changes"
+      ],
+      "foods": [
+        "Fatty fish (salmon, mackerel)",
+        "Egg yolks",
+        "Fortified milk",
+        "Mushrooms",
+        "Sunlight exposure"
+      ],
+      "precautions": [
+        "Get regular sunlight exposure",
+        "Consider vitamin D supplements",
+        "Consult healthcare provider"
+      ],
+      "confidence": "78%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 11:58:59",
+    "symptoms": "I feel tired and have muscle weakness",
+    "analysis": {
+      "vitamin_name": "Vitamin D",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and tiredness",
+        "Muscle weakness",
+        "Bone pain",
+        "Mood changes"
+      ],
+      "foods": [
+        "Fatty fish (salmon, mackerel)",
+        "Egg yolks",
+        "Fortified milk",
+        "Mushrooms",
+        "Sunlight exposure"
+      ],
+      "precautions": [
+        "Get regular sunlight exposure",
+        "Consider vitamin D supplements",
+        "Consult healthcare provider"
+      ],
+      "confidence": "78%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 11:59:07",
+    "symptoms": "I feel tired and have muscle weakness",
+    "analysis": {
+      "vitamin_name": "Vitamin D",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and tiredness",
+        "Muscle weakness",
+        "Bone pain",
+        "Mood changes"
+      ],
+      "foods": [
+        "Fatty fish (salmon, mackerel)",
+        "Egg yolks",
+        "Fortified milk",
+        "Mushrooms",
+        "Sunlight exposure"
+      ],
+      "precautions": [
+        "Get regular sunlight exposure",
+        "Consider vitamin D supplements",
+        "Consult healthcare provider"
+      ],
+      "confidence": "78%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 11:59:08",
+    "symptoms": "I have pale skin and feel breathless",
+    "analysis": {
+      "vitamin_name": "Iron",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and weakness",
+        "Pale skin",
+        "Shortness of breath",
+        "Dizziness",
+        "Hair loss"
+      ],
+      "foods": [
+        "Red meat",
+        "Spinach",
+        "Lentils",
+        "Quinoa",
+        "Nuts and seeds"
+      ],
+      "precautions": [
+        "Include iron-rich foods in diet",
+        "Pair with vitamin C for absorption",
+        "Consider iron supplements if needed"
+      ],
+      "confidence": "82%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 11:59:08",
+    "symptoms": "I have numbness in my hands and memory problems",
+    "analysis": {
+      "vitamin_name": "Vitamin B12",
+      "severity": "Mild",
+      "symptoms": [
+        "Numbness in hands/feet",
+        "Memory problems",
+        "Balance issues",
+        "Mood changes"
+      ],
+      "foods": [
+        "Meat and poultry",
+        "Fish and seafood",
+        "Eggs",
+        "Dairy products",
+        "Fortified cereals"
+      ],
+      "precautions": [
+        "Include animal products in diet",
+        "Consider B12 supplements for vegetarians",
+        "Regular blood tests"
+      ],
+      "confidence": "75%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 11:59:19",
+    "symptoms": "fatigue and muscle weakness",
+    "analysis": {
+      "vitamin_name": "Vitamin D",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and tiredness",
+        "Muscle weakness",
+        "Bone pain",
+        "Mood changes"
+      ],
+      "foods": [
+        "Fatty fish (salmon, mackerel)",
+        "Egg yolks",
+        "Fortified milk",
+        "Mushrooms",
+        "Sunlight exposure"
+      ],
+      "precautions": [
+        "Get regular sunlight exposure",
+        "Consider vitamin D supplements",
+        "Consult healthcare provider"
+      ],
+      "confidence": "78%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 11:59:20",
+    "symptoms": "pale skin and shortness of breath",
+    "analysis": {
+      "vitamin_name": "Iron",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and weakness",
+        "Pale skin",
+        "Shortness of breath",
+        "Dizziness",
+        "Hair loss"
+      ],
+      "foods": [
+        "Red meat",
+        "Spinach",
+        "Lentils",
+        "Quinoa",
+        "Nuts and seeds"
+      ],
+      "precautions": [
+        "Include iron-rich foods in diet",
+        "Pair with vitamin C for absorption",
+        "Consider iron supplements if needed"
+      ],
+      "confidence": "82%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 11:59:20",
+    "symptoms": "numbness and memory loss",
+    "analysis": {
+      "vitamin_name": "Vitamin B12",
+      "severity": "Mild",
+      "symptoms": [
+        "Numbness in hands/feet",
+        "Memory problems",
+        "Balance issues",
+        "Mood changes"
+      ],
+      "foods": [
+        "Meat and poultry",
+        "Fish and seafood",
+        "Eggs",
+        "Dairy products",
+        "Fortified cereals"
+      ],
+      "precautions": [
+        "Include animal products in diet",
+        "Consider B12 supplements for vegetarians",
+        "Regular blood tests"
+      ],
+      "confidence": "75%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 11:59:48",
+    "symptoms": "fatigue and muscle weakness",
+    "analysis": {
+      "vitamin_name": "Vitamin D",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and tiredness",
+        "Muscle weakness",
+        "Bone pain",
+        "Mood changes"
+      ],
+      "foods": [
+        "Fatty fish (salmon, mackerel)",
+        "Egg yolks",
+        "Fortified milk",
+        "Mushrooms",
+        "Sunlight exposure"
+      ],
+      "precautions": [
+        "Get regular sunlight exposure",
+        "Consider vitamin D supplements",
+        "Consult healthcare provider"
+      ],
+      "confidence": "78%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 11:59:49",
+    "symptoms": "pale skin and shortness of breath",
+    "analysis": {
+      "vitamin_name": "Iron",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and weakness",
+        "Pale skin",
+        "Shortness of breath",
+        "Dizziness",
+        "Hair loss"
+      ],
+      "foods": [
+        "Red meat",
+        "Spinach",
+        "Lentils",
+        "Quinoa",
+        "Nuts and seeds"
+      ],
+      "precautions": [
+        "Include iron-rich foods in diet",
+        "Pair with vitamin C for absorption",
+        "Consider iron supplements if needed"
+      ],
+      "confidence": "82%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 11:59:49",
+    "symptoms": "numbness and memory loss",
+    "analysis": {
+      "vitamin_name": "Vitamin B12",
+      "severity": "Mild",
+      "symptoms": [
+        "Numbness in hands/feet",
+        "Memory problems",
+        "Balance issues",
+        "Mood changes"
+      ],
+      "foods": [
+        "Meat and poultry",
+        "Fish and seafood",
+        "Eggs",
+        "Dairy products",
+        "Fortified cereals"
+      ],
+      "precautions": [
+        "Include animal products in diet",
+        "Consider B12 supplements for vegetarians",
+        "Regular blood tests"
+      ],
+      "confidence": "75%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 12:00:42",
+    "symptoms": "fatigue and muscle weakness",
+    "analysis": {
+      "vitamin_name": "Vitamin D",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and tiredness",
+        "Muscle weakness",
+        "Bone pain",
+        "Mood changes"
+      ],
+      "foods": [
+        "Fatty fish (salmon, mackerel)",
+        "Egg yolks",
+        "Fortified milk",
+        "Mushrooms",
+        "Sunlight exposure"
+      ],
+      "precautions": [
+        "Get regular sunlight exposure",
+        "Consider vitamin D supplements",
+        "Consult healthcare provider"
+      ],
+      "confidence": "78%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 12:00:42",
+    "symptoms": "pale skin and shortness of breath",
+    "analysis": {
+      "vitamin_name": "Iron",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and weakness",
+        "Pale skin",
+        "Shortness of breath",
+        "Dizziness",
+        "Hair loss"
+      ],
+      "foods": [
+        "Red meat",
+        "Spinach",
+        "Lentils",
+        "Quinoa",
+        "Nuts and seeds"
+      ],
+      "precautions": [
+        "Include iron-rich foods in diet",
+        "Pair with vitamin C for absorption",
+        "Consider iron supplements if needed"
+      ],
+      "confidence": "82%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 12:00:43",
+    "symptoms": "numbness and memory loss",
+    "analysis": {
+      "vitamin_name": "Vitamin B12",
+      "severity": "Mild",
+      "symptoms": [
+        "Numbness in hands/feet",
+        "Memory problems",
+        "Balance issues",
+        "Mood changes"
+      ],
+      "foods": [
+        "Meat and poultry",
+        "Fish and seafood",
+        "Eggs",
+        "Dairy products",
+        "Fortified cereals"
+      ],
+      "precautions": [
+        "Include animal products in diet",
+        "Consider B12 supplements for vegetarians",
+        "Regular blood tests"
+      ],
+      "confidence": "75%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 12:01:19",
+    "symptoms": "pale skin and shortness of breath",
+    "analysis": {
+      "vitamin_name": "Iron",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and weakness",
+        "Pale skin",
+        "Shortness of breath",
+        "Dizziness",
+        "Hair loss"
+      ],
+      "foods": [
+        "Red meat",
+        "Spinach",
+        "Lentils",
+        "Quinoa",
+        "Nuts and seeds"
+      ],
+      "precautions": [
+        "Include iron-rich foods in diet",
+        "Pair with vitamin C for absorption",
+        "Consider iron supplements if needed"
+      ],
+      "confidence": "82%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 12:01:29",
+    "symptoms": "pale skin and shortness of breath",
+    "analysis": {
+      "vitamin_name": "Iron",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and weakness",
+        "Pale skin",
+        "Shortness of breath",
+        "Dizziness",
+        "Hair loss"
+      ],
+      "foods": [
+        "Red meat",
+        "Spinach",
+        "Lentils",
+        "Quinoa",
+        "Nuts and seeds"
+      ],
+      "precautions": [
+        "Include iron-rich foods in diet",
+        "Pair with vitamin C for absorption",
+        "Consider iron supplements if needed"
+      ],
+      "confidence": "82%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 12:01:36",
+    "symptoms": "pale skin and shortness of breath",
+    "analysis": {
+      "vitamin_name": "Iron",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and weakness",
+        "Pale skin",
+        "Shortness of breath",
+        "Dizziness",
+        "Hair loss"
+      ],
+      "foods": [
+        "Red meat",
+        "Spinach",
+        "Lentils",
+        "Quinoa",
+        "Nuts and seeds"
+      ],
+      "precautions": [
+        "Include iron-rich foods in diet",
+        "Pair with vitamin C for absorption",
+        "Consider iron supplements if needed"
+      ],
+      "confidence": "82%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 12:01:44",
+    "symptoms": "pale skin and shortness of breath",
+    "analysis": {
+      "vitamin_name": "Iron",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and weakness",
+        "Pale skin",
+        "Shortness of breath",
+        "Dizziness",
+        "Hair loss"
+      ],
+      "foods": [
+        "Red meat",
+        "Spinach",
+        "Lentils",
+        "Quinoa",
+        "Nuts and seeds"
+      ],
+      "precautions": [
+        "Include iron-rich foods in diet",
+        "Pair with vitamin C for absorption",
+        "Consider iron supplements if needed"
+      ],
+      "confidence": "82%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 12:02:28",
+    "symptoms": "I feel very tired and my muscles are weak",
+    "analysis": {
+      "vitamin_name": "Vitamin D",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and tiredness",
+        "Muscle weakness",
+        "Bone pain",
+        "Mood changes"
+      ],
+      "foods": [
+        "Fatty fish (salmon, mackerel)",
+        "Egg yolks",
+        "Fortified milk",
+        "Mushrooms",
+        "Sunlight exposure"
+      ],
+      "precautions": [
+        "Get regular sunlight exposure",
+        "Consider vitamin D supplements",
+        "Consult healthcare provider"
+      ],
+      "confidence": "78%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 12:02:28",
+    "symptoms": "My skin looks pale and I get breathless easily",
+    "analysis": {
+      "vitamin_name": "Iron",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and weakness",
+        "Pale skin",
+        "Shortness of breath",
+        "Dizziness",
+        "Hair loss"
+      ],
+      "foods": [
+        "Red meat",
+        "Spinach",
+        "Lentils",
+        "Quinoa",
+        "Nuts and seeds"
+      ],
+      "precautions": [
+        "Include iron-rich foods in diet",
+        "Pair with vitamin C for absorption",
+        "Consider iron supplements if needed"
+      ],
+      "confidence": "82%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 12:04:33",
+    "symptoms": "dry skin",
+    "analysis": {
+      "vitamin_name": "Multiple Vitamins",
+      "severity": "Unknown",
+      "symptoms": [
+        "Various symptoms reported",
+        "Further analysis needed"
+      ],
+      "foods": [
+        "Balanced diet with fruits and vegetables",
+        "Lean proteins",
+        "Whole grains"
+      ],
+      "precautions": [
+        "Consult healthcare professional",
+        "Consider comprehensive blood tests",
+        "Maintain healthy lifestyle"
+      ],
+      "confidence": "45%"
+    },
+    "image": null
+  },
+  {
+    "timestamp": "2026-03-27 12:14:57",
+    "symptoms": "bone pain",
+    "analysis": {
+      "vitamin_name": "Vitamin D",
+      "severity": "Moderate",
+      "symptoms": [
+        "Fatigue and tiredness",
+        "Muscle weakness",
+        "Bone pain",
+        "Mood changes"
+      ],
+      "foods": [
+        "Fatty fish (salmon, mackerel)",
+        "Egg yolks",
+        "Fortified milk",
+        "Mushrooms",
+        "Sunlight exposure"
+      ],
+      "precautions": [
+        "Get regular sunlight exposure",
+        "Consider vitamin D supplements",
+        "Consult healthcare provider"
+      ],
+      "confidence": "78%"
+    },
+    "image": null
+  }
+]
